@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi there, I'm Harsh Chauhan!
 
-<!--
-**Harshkumar-2024/Harshkumar-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student at IIIT Surat
+🤖 Interested in AI/ML, NLP & Generative AI
+💻 Currently learning, building projects, and improving my DSA & software development skills.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn" />
+</p>
+
+**Computer Vision • NLP**
+
+### 📊 Data Science & ML Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+**NumPy • Pandas • Matplotlib • Seaborn**
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚡ Backend & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
+</p>
